@@ -1,4 +1,6 @@
+/* object-oriented access */
 #include <limits.h>
+/* object-oriented access */
 #include <lua.h>
 #include <lauxlib.h>
 
